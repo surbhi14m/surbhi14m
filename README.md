@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning advanced data modeling, DAX in Power BI, and data storytelling techniques.
 - 👯 I’m looking to collaborate on beginner to intermediate data analysis projects or contribute to open-source analytics tools.
 - 🤔 I’m looking for help with machine learning integration into business intelligence workflows.
-- 💬 Ask me about transitioning from recruiting to analytics, creating data dashboards, or cleaning messy datasets!
+- 💬 Ask me about transitioning from servicenow developer to analytics, creating data dashboards, or cleaning messy datasets!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kumarisurbhi97) | Email: surbhi14m@gmail.com
 - 😄 Pronouns: She/Her
 
